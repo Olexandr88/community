@@ -12,7 +12,7 @@ Visit the [website](https://pharosnetwork.xyz/) for more information.
 
 - **Bug Reports**: Encounter an error on the Pharos testnet? Let us know so we can investigate and fix it.
 - **Feature Requests**: Have ideas to improve the Pharos ecosystem? Propose suggestions here and start discussions.
-- **Documentation & Guides**: Need clearer instructions or updated docucments? Submit requests for better documentation.
+- **Documentation & Guides**: Need clearer instructions or updated documents? Submit requests for better documentation.
 
 ## How
 
